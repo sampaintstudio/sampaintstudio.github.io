@@ -1,4 +1,8 @@
-## Hi there 👋
+This is my Website for my art studio
+
+index.html - is the main block of code
+Images folder - Holds the images wanted to have on the website
+schedule code - holds the code block to input once a farmers market schedule has been created
 
 <!--
 **sampaintstudio/sampaintstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
